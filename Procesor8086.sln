@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procesor8086", "Procesor8086\Procesor8086.csproj", "{E20B9465-0A02-441B-BB85-321ABE9B9D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20B9465-0A02-441B-BB85-321ABE9B9D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20B9465-0A02-441B-BB85-321ABE9B9D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20B9465-0A02-441B-BB85-321ABE9B9D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20B9465-0A02-441B-BB85-321ABE9B9D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05FBBF7B-8E39-4CCA-8034-8B1642171A28}
+	EndGlobalSection
+EndGlobal
