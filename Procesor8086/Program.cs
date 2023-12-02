@@ -5,7 +5,8 @@ namespace Procesor8086
         [STAThread]
         static void Main()
         {
-            
+            ApplicationConfiguration.Initialize();
+            Application.Run(new RergisterInput());
         }
     }
 }

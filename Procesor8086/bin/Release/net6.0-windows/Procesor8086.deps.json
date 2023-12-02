@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Procesor8086/1.0.0": {
+        "runtime": {
+          "Procesor8086.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Procesor8086/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

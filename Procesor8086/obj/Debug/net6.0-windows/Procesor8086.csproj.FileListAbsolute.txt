@@ -1,0 +1,16 @@
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\bin\Debug\net6.0-windows\Procesor8086.exe
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\bin\Debug\net6.0-windows\Procesor8086.deps.json
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\bin\Debug\net6.0-windows\Procesor8086.runtimeconfig.json
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\bin\Debug\net6.0-windows\Procesor8086.dll
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\bin\Debug\net6.0-windows\Procesor8086.pdb
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\Procesor8086.csproj.GenerateResource.cache
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\Procesor8086.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\Procesor8086.AssemblyInfoInputs.cache
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\Procesor8086.AssemblyInfo.cs
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\Procesor8086.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\Procesor8086.dll
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\refint\Procesor8086.dll
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\Procesor8086.pdb
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\Procesor8086.genruntimeconfig.cache
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\ref\Procesor8086.dll
+C:\Users\Kacper\Source\Repos\KacperWojas\Procesor8086\Procesor8086\obj\Debug\net6.0-windows\Procesor8086.rergisterInput.resources
